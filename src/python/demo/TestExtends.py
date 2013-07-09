@@ -14,7 +14,7 @@ class SchoolMember(object):
         self.sex = sex
     def tell(self):
         print 'Name:"%s"'%(self.name)
-class Teacher(SchoolMember):
+class Teacher(SchoolMember): 
     """Docstring for Teacher """
     def __init__(self,name,sex,salary):
         """@todo: to be defined1
