@@ -11,3 +11,4 @@ print string.capitalize()
 print string.join("-")
 print "-".join(strArrays)
 print string.split()
+print 
