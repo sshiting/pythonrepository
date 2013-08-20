@@ -6,6 +6,7 @@
 #   Date    :   13/08/05 16:10:29
 #   Desc    :   
 #
+#   
 import yaml
 f = file("data.yaml")
 print yaml.load(f)
